@@ -6,6 +6,4 @@ Usage:
 - /fglist add <name> - adds player to whitelist
 - /fglist remove <name> - removes player from whitelist
 
-And I hate java.
-Current ver: 0.1
-Made for spigot 1.20.1
+Current ver: 0.1 - Made for spigot 1.20.1
