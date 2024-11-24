@@ -1,0 +1,13 @@
+name: FGList
+version: '${version}'
+main: net.fglist.FGList
+api-version: '1.20'
+load: STARTUP
+authors: [Aminium]
+description: A minecraft plugin made to replace the /whitelist command.
+commands:
+  fglist:
+    description: Toggles the whitelist for the server.
+    usage: /fglist <mode> [name]
+    permission: fglist
+    permission-message: You do not have permission to run this command.

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FGList:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FGList_jar</output-path>
+    <root id="archive" name="FGList.jar">
+      <element id="module-output" name="FGList.main" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>
